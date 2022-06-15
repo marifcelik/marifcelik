@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm arif</h1>
 <h3 align="center">trying to be a developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, .NET**
+- 🌱 I’m currently learning **Kubernetes, Bash, Go**
 
 - 📫 How to reach me **marifcelik@protonmail.com**
 
