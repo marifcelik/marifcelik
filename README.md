@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Bash, Go**
 
-- 📫 How to reach me **marifcelik@protonmail.com**
+- 📫 How to reach me **marifcelik@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
