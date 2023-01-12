@@ -30,7 +30,7 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marifcelik&show_icons=true&theme=onedark&locale=en&layout=compact" alt="marifcelik" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=marifcelik&show_icons=true&theme=radical&locale=en&layout=compact" alt="marifcelik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marifcelik&show_icons=true&theme=onedark&locale=en" alt="marifcelik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marifcelik&show_icons=true&theme=radical&locale=en" alt="marifcelik" /></p>
 </body>
