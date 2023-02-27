@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm arif</h1>
 <h3 align="center">trying to be a developer</h3>
 
-- 🌱 I’m currently learning **React, Vue, TypeScript, NestJS, Bash**
+- 🌱 I’m currently learning **Vue, TypeScript, NestJS, Bash, Rust**
 
 - 📫 How to reach me **marifcelik@proton.me**
 
